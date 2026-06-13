@@ -137,30 +137,3 @@ git push -u origin main
 
 I have learn how to synchronize local development with a remote GitHub repository using standard Git commands.
 
-
-### 7. Remote Repository Management
-
-* Push local commits to GitHub.
-* Keep local and remote repositories synchronized.
-
-## Technologies Used
-
-* Git-bash  (for windows environment)
-* GitHub
-* Python
-* Markdown
-
-## Expected Learning Outcomes
-
-After completing this project, i had learned:
-
-* Understand the basics of Version Control Systems (VCS).
-* Use Git commands confidently.
-* Manage source code efficiently.
-* Collaborate using GitHub.
-* Maintain a structured software project.
-* Apply industry-standard development workflows.
-
-## Conclusion
-
-This project serves as a foundation for learning professional software development practices. By completing the assignment, I have to gain practical experience in version control, project organization, and collaborative development using Git and GitHub.
