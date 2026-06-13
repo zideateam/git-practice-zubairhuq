@@ -137,3 +137,34 @@ git push -u origin main
 
 I have learn how to synchronize local development with a remote GitHub repository using standard Git commands.
 
+## Latest Project Enhancement
+
+### Calculator Module Enhancement
+
+The calculator module has been extended by adding a multiplication function.
+
+### Functions Available
+
+* add(a, b)
+* subtract(a, b)
+* multiply(a, b)
+
+### Git Workflow Practiced
+
+During this project, the following Git operations were performed:
+
+* Repository Creation
+* Local Git Initialization
+* First Commit
+* Git Ignore Configuration
+* Branch Creation
+* Feature Development
+* Branch Merge
+* GitHub Push
+* Multiple Incremental Commits
+
+### Educational Goal
+
+The project helps myself to understand how software projects evolve through small, well-documented commits instead of making all changes at once.
+
+
