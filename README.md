@@ -8,7 +8,7 @@ Git & GitHub Practical Assignment
 
 **Name:** Zubair Mahmudul Huq
 
-## 👨‍🎓 Gut Hub user name
+## 👨‍🎓 Git Hub user name
 
 **Git Hub User Name:** zubairmhuq@gmail.com
 
