@@ -79,6 +79,41 @@ git-practice-zubairhuq/
 * Develop features independently.
 * Merge changes into the main branch.
 
+## Feature Update: Basic Calculator Module
+
+* A simple calculator module has been added to the project using a separate Git branch named `feature/calculator`.
+
+### Functions Implemented
+
+* add(a, b)
+* subtract(a, b)
+
+* The main program imports these functions and demonstrates their usage.
+
+* This task helps myself understand how to:
+
+* Create and switch branches.
+* Develop features independently.
+* Commit feature-specific changes.
+* Prepare for future branch merging.
+
+## Feature Integration and Branch Management
+
+The calculator module was developed in a separate branch called `feature/calculator`. After successful development and testing, the branch was merged into the main project branch.
+
+### Git Operations Performed
+
+* Created a feature branch.
+* Developed calculator functions.
+* Committed the new feature.
+* Switched back to the main branch.
+* Merged the feature branch.
+* Deleted the temporary feature branch.
+
+### Learning Outcome
+
+This task demonstrates a professional Git workflow where new features are developed independently and then integrated into the main project after completion.
+
 ### 7. Remote Repository Management
 
 * Push local commits to GitHub.
