@@ -114,6 +114,30 @@ The calculator module was developed in a separate branch called `feature/calcula
 
 This task demonstrates a professional Git workflow where new features are developed independently and then integrated into the main project after completion.
 
+## Remote Repository Integration
+
+The local Git repository was successfully connected to GitHub using a remote repository.
+
+### Git Commands Used
+
+```bash
+git remote add origin <repository-url>
+git branch -M main
+git push -u origin main
+```
+
+### Purpose
+
+* Connect the local project to GitHub.
+* Upload project files to a remote repository.
+* Enable project sharing and collaboration.
+* Maintain an online backup of the source code.
+
+### Learning Outcome
+
+I have learn how to synchronize local development with a remote GitHub repository using standard Git commands.
+
+
 ### 7. Remote Repository Management
 
 * Push local commits to GitHub.
