@@ -8,6 +8,10 @@ Git & GitHub Practical Assignment
 
 **Name:** Zubair Mahmudul Huq
 
+## 👨‍🎓 Gut Hub user name
+
+**Git Hub User Name:** zubairmhuq@gmail.com
+
 ## 🎯 Project Objective
 
 This project is designed to learn the basic concepts of Git and GitHub, including repository creation, version control, branching, merging, and collaboration.
