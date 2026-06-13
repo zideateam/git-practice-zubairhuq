@@ -1,8 +1,9 @@
 from datetime import date
-from utils import add, subtract
+from utils import add, subtract, multiply
 
-print("My Name: Zubair Huq")
+print("My Name: Zubair Mahmudul Huq")
 print("Today's Date:", date.today())
 
-print("Addition:", add(14, 23))
-print("Subtraction:", subtract(23, 18))
+print("Addition:", add(10, 5))
+print("Subtraction:", subtract(10, 5))
+print("Multiplication:", multiply(10, 5))
